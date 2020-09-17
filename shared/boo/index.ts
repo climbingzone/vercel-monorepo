@@ -1,6 +1,6 @@
 import { foo } from '../foo';
 
 const boo = 2;
-const fooed = foo.value?.toString();
+const fooString = foo.value?.toString();
 
-export { boo, fooed };
+export { boo, fooString };
