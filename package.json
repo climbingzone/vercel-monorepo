@@ -4,8 +4,5 @@
   "workspaces": [
     "projects/*"
   ],
-  "scripts": {},
-  "devDependencies": {
-    "typescript": "^3.9.7"
-  }
+  "scripts": {}
 }
